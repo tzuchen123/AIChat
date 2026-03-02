@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(npm i -g @anthropic-ai/claude-code)",
-      "Bash(npm install 2>&1)",
-      "Bash(npm test 2>&1)"
-    ]
-  }
-}
